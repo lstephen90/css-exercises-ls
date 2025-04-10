@@ -1,0 +1,10 @@
+
+div {
+    /*apply div background color, 
+    fonts and font size - External CSS */
+    background-color: red;
+    text: white;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
