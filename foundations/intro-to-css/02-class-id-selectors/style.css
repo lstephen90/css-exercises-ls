@@ -1,0 +1,18 @@
+p{
+    background-color: #ecabab;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+    font-size: 24px;
+}
+
+div{
+    color:blue;
+    font-size: 36px;
+}
+
+.another {
+    background-color: #6df352;
+    color: hsl(0, 0%, 0%);
+    font-size: 24px;
+    font-weight: bold;
+
+}
